@@ -1,0 +1,103 @@
+<h1>
+    <img src="https://emojis.slackmojis.com/emojis/images/1471045862/883/nerd.gif?1471045862" width="30"/> Hey. Welcome aboard!
+</h1>
+
+<p>
+    Thanks for joining my page! <br /> 
+    I'm {{firstname}}, Cloud architect from <img src="https://image.flaticon.com/icons/svg/197/197560.svg" width="13"/> <b>Metz, France</b>, currently living in <img src="https://image.flaticon.com/icons/svg/323/323272.svg" width="13"/> <b>Luxembourg</b>.
+</p>
+
+<h3>Things I code with</h3>
+<p>
+    {{#technologies}}
+    <img alt="{{alt}}" src="{{src}}" />
+    {{/technologies}}
+</p>
+
+<h3>OSS projects</h3>
+<table>
+    <thead align="center">
+        <tr border: none;>
+            <td>
+                <b>🎁 Projects</b>
+            </td>
+            <td>
+                <b>⭐ Stars</b>
+            </td>
+            <td>
+                <b>📚 Forks</b>
+            </td>
+            <td>
+                <b>🛎 Issues</b>
+            </td>
+            <td>
+                <b>📬 Pull requests</b>
+            </td>
+        </tr>
+    </thead>
+    <tbody>
+    {{#project}}
+        <tr>
+            <td>
+                <a href="https://github.com/{{githubRepositorySuffix}}">
+                    <b>{{name}}</b>
+                </a>
+            </td>
+            <td>
+                <img alt="Stars" src="https://img.shields.io/github/stars/{{githubRepositorySuffix}}?style=flat-square&labelColor=343b41" />
+            </td>
+            <td>
+                <img alt="Forks" src="https://img.shields.io/github/forks/{{githubRepositorySuffix}}?style=flat-square&labelColor=343b41" />
+            </td>
+            <td>
+                <img alt="Issues" src="https://img.shields.io/github/issues/{{githubRepositorySuffix}}?style=flat-square&labelColor=343b41" />
+            </td>
+            <td>
+                <img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/{{githubRepositorySuffix}}?style=flat-square&labelColor=343b41" />
+            </td>
+        </tr>
+    {{/project}}
+    </tbody>
+</table>
+
+{{#posts}}
+<h3>My latest posts</h3>
+<ul>
+    <li>
+        <a href="">
+            <b>Blog post title here.</b>
+        </a>
+        <br/>
+        <i>Blog post description here.</i>
+    </li>
+</ul>
+{{/posts}}
+
+<h3>Where to find me</h3>
+<p>
+    <a href="https://github.com/MadJlzz" target="_blank">
+        <img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" />
+    </a>
+    <a href="https://twitter.com/MadJlzz" target="_blank">
+        <img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />
+    </a>
+    <a href="https://www.linkedin.com/in/klaer-julien/" target="_blank">
+        <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+    </a>
+</p>
+
+<p>
+    All credits to <a href="https://github.com/thmsgbrt">Thomas Guibert</a> for his neat blog post on <a href="https://medium.com/swlh/how-to-create-a-self-updating-readme-md-for-your-github-profile-f8b05744ca91">Medium</a>.
+</p>
+
+------------
+<p align="center">
+    This <i>README</i> file is generated <b>every 6 hours</b>! <br /> 
+    Last refresh: {{date}}
+</p>
+
+<p align="center">
+    <img src="https://github.com/{{githubUsername}}/{{githubUsername}}/workflows/README%20build/badge.svg" />
+    <img alt="Stars" src="https://img.shields.io/github/stars/{{githubUsername}}/{{githubUsername}}?style=flat-square&labelColor=343b41"/>
+    <img alt="Forks" src="https://img.shields.io/github/forks/{{githubUsername}}/{{githubUsername}}?style=flat-square&labelColor=343b41"/>
+</p>

@@ -1,0 +1,22 @@
+{
+  "name": "madjlzz",
+  "version": "1.0.0",
+  "description": "My personnal GitHub README page",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MadJlzz/MadJlzz.git"
+  },
+  "author": "Julien KLAER",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MadJlzz/MadJlzz/issues"
+  },
+  "homepage": "https://github.com/MadJlzz/MadJlzz#readme",
+  "dependencies": {
+    "mustache": "^4.2.0"
+  }
+}
