@@ -1,5 +1,5 @@
 <h1>
-    <img src="https://emojis.slackmojis.com/emojis/images/1471045862/883/nerd.gif?1471045862" width="30"/> Hey. Welcome aboard!
+    🤓 Hey. Welcome aboard!
 </h1>
 
 <p>
