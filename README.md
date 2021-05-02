@@ -1,5 +1,5 @@
 <h1>
-    🤓 Hey. Welcome aboard!
+    <img src="https://emojis.slackmojis.com/emojis/images/1471045862/883/nerd.gif?1471045862" width="30"/> Hey. Welcome aboard!
 </h1>
 
 <p>
@@ -140,7 +140,7 @@
 ------------
 <p align="center">
     This <i>README</i> file is generated <b>every 6 hours</b>! <br /> 
-    Last refresh: Sunday, 2 May, 18:36 CEST
+    Last refresh: Sunday, 2 May, 18:53 CEST
 </p>
 
 <p align="center">
