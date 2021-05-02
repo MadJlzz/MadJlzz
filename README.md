@@ -12,8 +12,8 @@
     <img alt="Java" src="https:&#x2F;&#x2F;img.shields.io&#x2F;badge&#x2F;-Java-E34F26?style&#x3D;flat-square&amp;logo&#x3D;java&amp;logoColor&#x3D;white" />
     <img alt="Python" src="https:&#x2F;&#x2F;img.shields.io&#x2F;badge&#x2F;-Python-FB542B?style&#x3D;flat-square&amp;logo&#x3D;python&amp;logoColor&#x3D;white" />
     <img alt="Golang" src="https:&#x2F;&#x2F;img.shields.io&#x2F;badge&#x2F;-Golang-EC4A3F?style&#x3D;flat-square&amp;logo&#x3D;golang&amp;logoColor&#x3D;white" />
-    <img alt="Docker" src="https:&#x2F;&#x2F;img.shields.io&#x2F;badge&#x2F;-Docker-F9A03C?style&#x3D;flat-square&amp;logo&#x3D;docker&amp;logoColor&#x3D;white" />
-    <img alt="GitHub Actions" src="https:&#x2F;&#x2F;img.shields.io&#x2F;badge&#x2F;-Github_Actions-F7B93E?style&#x3D;flat-square&amp;logo&#x3D;github-actions&amp;logoColor&#x3D;white" />
+    <img alt="Docker" src="https:&#x2F;&#x2F;img.shields.io&#x2F;badge&#x2F;-Docker-46a2f1?style&#x3D;flat-square&amp;logo&#x3D;docker&amp;logoColor&#x3D;white" />
+    <img alt="GitHub Actions" src="https:&#x2F;&#x2F;img.shields.io&#x2F;badge&#x2F;-Github_Actions-2088FF?style&#x3D;flat-square&amp;logo&#x3D;github-actions&amp;logoColor&#x3D;white" />
     <img alt="Google Cloud Platform" src="https:&#x2F;&#x2F;img.shields.io&#x2F;badge&#x2F;-Google_Cloud_Platform-13aa52?style&#x3D;flat-square&amp;logo&#x3D;google-cloud&amp;logoColor&#x3D;white" />
     <img alt="Git" src="https:&#x2F;&#x2F;img.shields.io&#x2F;badge&#x2F;-Git-43853d?style&#x3D;flat-square&amp;logo&#x3D;git&amp;logoColor&#x3D;white" />
 </p>
@@ -40,6 +40,82 @@
         </tr>
     </thead>
     <tbody>
+        <tr>
+            <td>
+                <a href="https://github.com/MadJlzz&#x2F;madprobe">
+                    <b>MadProbe</b>
+                </a>
+            </td>
+            <td>
+                <img alt="Stars" src="https://img.shields.io/github/stars/MadJlzz&#x2F;madprobe?style=flat-square&labelColor=343b41" />
+            </td>
+            <td>
+                <img alt="Forks" src="https://img.shields.io/github/forks/MadJlzz&#x2F;madprobe?style=flat-square&labelColor=343b41" />
+            </td>
+            <td>
+                <img alt="Issues" src="https://img.shields.io/github/issues/MadJlzz&#x2F;madprobe?style=flat-square&labelColor=343b41" />
+            </td>
+            <td>
+                <img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/MadJlzz&#x2F;madprobe?style=flat-square&labelColor=343b41" />
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <a href="https://github.com/MadJlzz&#x2F;madprobectl">
+                    <b>MadProbe CLI</b>
+                </a>
+            </td>
+            <td>
+                <img alt="Stars" src="https://img.shields.io/github/stars/MadJlzz&#x2F;madprobectl?style=flat-square&labelColor=343b41" />
+            </td>
+            <td>
+                <img alt="Forks" src="https://img.shields.io/github/forks/MadJlzz&#x2F;madprobectl?style=flat-square&labelColor=343b41" />
+            </td>
+            <td>
+                <img alt="Issues" src="https://img.shields.io/github/issues/MadJlzz&#x2F;madprobectl?style=flat-square&labelColor=343b41" />
+            </td>
+            <td>
+                <img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/MadJlzz&#x2F;madprobectl?style=flat-square&labelColor=343b41" />
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <a href="https://github.com/MadJlzz&#x2F;gopypi">
+                    <b>Gopypi</b>
+                </a>
+            </td>
+            <td>
+                <img alt="Stars" src="https://img.shields.io/github/stars/MadJlzz&#x2F;gopypi?style=flat-square&labelColor=343b41" />
+            </td>
+            <td>
+                <img alt="Forks" src="https://img.shields.io/github/forks/MadJlzz&#x2F;gopypi?style=flat-square&labelColor=343b41" />
+            </td>
+            <td>
+                <img alt="Issues" src="https://img.shields.io/github/issues/MadJlzz&#x2F;gopypi?style=flat-square&labelColor=343b41" />
+            </td>
+            <td>
+                <img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/MadJlzz&#x2F;gopypi?style=flat-square&labelColor=343b41" />
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <a href="https://github.com/MadJlzz&#x2F;chaloperie">
+                    <b>Chaloperie</b>
+                </a>
+            </td>
+            <td>
+                <img alt="Stars" src="https://img.shields.io/github/stars/MadJlzz&#x2F;chaloperie?style=flat-square&labelColor=343b41" />
+            </td>
+            <td>
+                <img alt="Forks" src="https://img.shields.io/github/forks/MadJlzz&#x2F;chaloperie?style=flat-square&labelColor=343b41" />
+            </td>
+            <td>
+                <img alt="Issues" src="https://img.shields.io/github/issues/MadJlzz&#x2F;chaloperie?style=flat-square&labelColor=343b41" />
+            </td>
+            <td>
+                <img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/MadJlzz&#x2F;chaloperie?style=flat-square&labelColor=343b41" />
+            </td>
+        </tr>
     </tbody>
 </table>
 
@@ -64,7 +140,7 @@
 ------------
 <p align="center">
     This <i>README</i> file is generated <b>every 6 hours</b>! <br /> 
-    Last refresh: Sunday, 2 May, 18:29 CEST
+    Last refresh: Sunday, 2 May, 18:36 CEST
 </p>
 
 <p align="center">

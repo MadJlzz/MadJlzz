@@ -26,11 +26,11 @@ let DATA = {
         },
         {
             alt: "Docker",
-            src: "https://img.shields.io/badge/-Docker-F9A03C?style=flat-square&logo=docker&logoColor=white"
+            src: "https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white",
         },
         {
             alt: "GitHub Actions",
-            src: "https://img.shields.io/badge/-Github_Actions-F7B93E?style=flat-square&logo=github-actions&logoColor=white"
+            src: "https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white"
         },
         {
             alt: "Google Cloud Platform",
