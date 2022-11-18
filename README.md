@@ -4,7 +4,7 @@
 
 <p>
     Thanks for joining my page! <br /> 
-    I'm Julien, Cloud architect from <img src="https://image.flaticon.com/icons/svg/197/197560.svg" width="13"/> <b>Metz, France</b>, currently living in <img src="https://image.flaticon.com/icons/svg/323/323272.svg" width="13"/> <b>Luxembourg</b>.
+    I'm Julien, Cloud architect from 🇫🇷 <b>Metz, France</b>, currently working in 🇱🇺 <b>Luxembourg</b>.
 </p>
 
 <h3>Things I code with</h3>
@@ -140,7 +140,7 @@
 ------------
 <p align="center">
     This <i>README</i> file is generated <b>every 6 hours</b>! <br /> 
-    Last refresh: Friday, 18 November, 13:36 CET
+    Last refresh: Friday, 18 November, 16:25 CET
 </p>
 
 <p align="center">
