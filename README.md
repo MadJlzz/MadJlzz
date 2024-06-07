@@ -140,7 +140,7 @@
 ------------
 <p align="center">
     This <i>README</i> file is generated <b>every 6 hours</b>! <br /> 
-    Last refresh: Thursday, 6 June, 20:21 CEST
+    Last refresh: Friday, 7 June, 03:13 CEST
 </p>
 
 <p align="center">
