@@ -15,7 +15,6 @@ i write about code, music and nature over at [julienklaer.dev](https://www.julie
 ### \# projects
 
 - **[maddock](https://github.com/MadJlzz/maddock)** · Configure fleets of VMs using recipes! · `go`
-- **[madlab](https://github.com/MadJlzz/madlab)** · Orchestrate IaC tools
 - **[terraform-provider-oneprovider](https://github.com/MadJlzz/terraform-provider-oneprovider)** · Terraform OneProvider provider · `go` · ★ 4
 - **[provider-oneprovider](https://github.com/MadJlzz/provider-oneprovider)** · Crossplane provider for OneProvider · `go`
 - **[ansible-runner-operator](https://github.com/MadJlzz/ansible-runner-operator)** · Lightweight operator that reconciles Ansible playbooks · `go`

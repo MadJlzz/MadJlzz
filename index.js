@@ -23,7 +23,6 @@ let DATA = {
     stack: ['golang', 'python', 'terraform', 'ansible', 'k8s', 'otel', 'gcp', 'azure', 'aws'].join(' · '),
     repositories: [
         'maddock',
-        'madlab',
         'terraform-provider-oneprovider',
         'provider-oneprovider',
         'ansible-runner-operator',
@@ -72,6 +71,8 @@ async function fetchProjects(repositories) {
         const res = await fetch(url, { headers });
         if (!res.ok) throw new Error(`${url}: HTTP ${res.status}`);
         const repo = await res.json();
+        // a personal token can see private repositories, never list them on a public profile
+        if (repo.private) throw new Error(`${url}: repository is private`);
         return {
             name: repo.name,
             url: repo.html_url,
