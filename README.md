@@ -1,150 +1,37 @@
-<h1>
-    🤓 Hey. Welcome aboard!
-</h1>
+<a href="https://www.julienklaer.dev/">
+  <img src="assets/hero.svg" width="100%" alt="reader@madlab:~$ whoami && cat ./welcome.txt — // MadJlzz, logs from the edge of the network" />
+</a>
 
-<p>
-    Thanks for joining my page! <br /> 
-    I'm Julien, Cloud architect from 🇫🇷 <b>Metz, France</b>, currently working in 🇱🇺 <b>Luxembourg</b>.
-</p>
+hi, i'm julien. sre / cloud architect from metz, france, currently working in luxembourg.\
+i write about code, music and nature over at [julienklaer.dev](https://www.julienklaer.dev/).
 
-<h3>Things I code with</h3>
-<p>
-    <img alt="Java" src="https:&#x2F;&#x2F;img.shields.io&#x2F;badge&#x2F;-Java-E34F26?style&#x3D;flat-square&amp;logo&#x3D;java&amp;logoColor&#x3D;white" />
-    <img alt="Python" src="https:&#x2F;&#x2F;img.shields.io&#x2F;badge&#x2F;-Python-FB542B?style&#x3D;flat-square&amp;logo&#x3D;python&amp;logoColor&#x3D;white" />
-    <img alt="Golang" src="https:&#x2F;&#x2F;img.shields.io&#x2F;badge&#x2F;-Golang-EC4A3F?style&#x3D;flat-square&amp;logo&#x3D;golang&amp;logoColor&#x3D;white" />
-    <img alt="Docker" src="https:&#x2F;&#x2F;img.shields.io&#x2F;badge&#x2F;-Docker-46a2f1?style&#x3D;flat-square&amp;logo&#x3D;docker&amp;logoColor&#x3D;white" />
-    <img alt="GitHub Actions" src="https:&#x2F;&#x2F;img.shields.io&#x2F;badge&#x2F;-Github_Actions-2088FF?style&#x3D;flat-square&amp;logo&#x3D;github-actions&amp;logoColor&#x3D;white" />
-    <img alt="Google Cloud Platform" src="https:&#x2F;&#x2F;img.shields.io&#x2F;badge&#x2F;-Google_Cloud_Platform-13aa52?style&#x3D;flat-square&amp;logo&#x3D;google-cloud&amp;logoColor&#x3D;white" />
-    <img alt="Git" src="https:&#x2F;&#x2F;img.shields.io&#x2F;badge&#x2F;-Git-43853d?style&#x3D;flat-square&amp;logo&#x3D;git&amp;logoColor&#x3D;white" />
-</p>
+### \# latest
 
-<h3>OSS projects</h3>
-<table>
-    <thead align="center">
-        <tr border: none;>
-            <td>
-                <b>🎁 Projects</b>
-            </td>
-            <td>
-                <b>⭐ Stars</b>
-            </td>
-            <td>
-                <b>📚 Forks</b>
-            </td>
-            <td>
-                <b>🛎 Issues</b>
-            </td>
-            <td>
-                <b>📬 Pull requests</b>
-            </td>
-        </tr>
-    </thead>
-    <tbody>
-        <tr>
-            <td>
-                <a href="https://github.com/MadJlzz&#x2F;madprobe">
-                    <b>MadProbe</b>
-                </a>
-            </td>
-            <td>
-                <img alt="Stars" src="https://img.shields.io/github/stars/MadJlzz&#x2F;madprobe?style=flat-square&labelColor=343b41" />
-            </td>
-            <td>
-                <img alt="Forks" src="https://img.shields.io/github/forks/MadJlzz&#x2F;madprobe?style=flat-square&labelColor=343b41" />
-            </td>
-            <td>
-                <img alt="Issues" src="https://img.shields.io/github/issues/MadJlzz&#x2F;madprobe?style=flat-square&labelColor=343b41" />
-            </td>
-            <td>
-                <img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/MadJlzz&#x2F;madprobe?style=flat-square&labelColor=343b41" />
-            </td>
-        </tr>
-        <tr>
-            <td>
-                <a href="https://github.com/MadJlzz&#x2F;madprobectl">
-                    <b>MadProbe CLI</b>
-                </a>
-            </td>
-            <td>
-                <img alt="Stars" src="https://img.shields.io/github/stars/MadJlzz&#x2F;madprobectl?style=flat-square&labelColor=343b41" />
-            </td>
-            <td>
-                <img alt="Forks" src="https://img.shields.io/github/forks/MadJlzz&#x2F;madprobectl?style=flat-square&labelColor=343b41" />
-            </td>
-            <td>
-                <img alt="Issues" src="https://img.shields.io/github/issues/MadJlzz&#x2F;madprobectl?style=flat-square&labelColor=343b41" />
-            </td>
-            <td>
-                <img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/MadJlzz&#x2F;madprobectl?style=flat-square&labelColor=343b41" />
-            </td>
-        </tr>
-        <tr>
-            <td>
-                <a href="https://github.com/MadJlzz&#x2F;gopypi">
-                    <b>Gopypi</b>
-                </a>
-            </td>
-            <td>
-                <img alt="Stars" src="https://img.shields.io/github/stars/MadJlzz&#x2F;gopypi?style=flat-square&labelColor=343b41" />
-            </td>
-            <td>
-                <img alt="Forks" src="https://img.shields.io/github/forks/MadJlzz&#x2F;gopypi?style=flat-square&labelColor=343b41" />
-            </td>
-            <td>
-                <img alt="Issues" src="https://img.shields.io/github/issues/MadJlzz&#x2F;gopypi?style=flat-square&labelColor=343b41" />
-            </td>
-            <td>
-                <img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/MadJlzz&#x2F;gopypi?style=flat-square&labelColor=343b41" />
-            </td>
-        </tr>
-        <tr>
-            <td>
-                <a href="https://github.com/MadJlzz&#x2F;chaloperie">
-                    <b>Chaloperie</b>
-                </a>
-            </td>
-            <td>
-                <img alt="Stars" src="https://img.shields.io/github/stars/MadJlzz&#x2F;chaloperie?style=flat-square&labelColor=343b41" />
-            </td>
-            <td>
-                <img alt="Forks" src="https://img.shields.io/github/forks/MadJlzz&#x2F;chaloperie?style=flat-square&labelColor=343b41" />
-            </td>
-            <td>
-                <img alt="Issues" src="https://img.shields.io/github/issues/MadJlzz&#x2F;chaloperie?style=flat-square&labelColor=343b41" />
-            </td>
-            <td>
-                <img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/MadJlzz&#x2F;chaloperie?style=flat-square&labelColor=343b41" />
-            </td>
-        </tr>
-    </tbody>
-</table>
+- `2026-05-07` **[Build a TUI for my Streamdeck (1/n)](https://www.julienklaer.dev/posts/tui-for-elgato-streamdeck-part-1/)**\
+  <sub>and oh boy, what was I thinking.</sub>
 
+<sub>→ [all posts](https://www.julienklaer.dev/posts/) · [rss](https://www.julienklaer.dev/rss.xml)</sub>
 
-<h3>Where to find me</h3>
-<p>
-    <a href="https://github.com/MadJlzz" target="_blank">
-        <img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" />
-    </a>
-    <a href="https://twitter.com/MadJlzz" target="_blank">
-        <img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />
-    </a>
-    <a href="https://www.linkedin.com/in/klaer-julien/" target="_blank">
-        <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
-    </a>
-</p>
+### \# projects
 
-<p>
-    All credits to <a href="https://github.com/thmsgbrt">Thomas Guibert</a> for his neat blog post on <a href="https://medium.com/swlh/how-to-create-a-self-updating-readme-md-for-your-github-profile-f8b05744ca91">Medium</a>.
-</p>
+- **[maddock](https://github.com/MadJlzz/maddock)** · Configure fleets of VMs using recipes! · `go`
+- **[madlab](https://github.com/MadJlzz/madlab)** · Orchestrate IaC tools
+- **[terraform-provider-oneprovider](https://github.com/MadJlzz/terraform-provider-oneprovider)** · Terraform OneProvider provider · `go` · ★ 4
+- **[provider-oneprovider](https://github.com/MadJlzz/provider-oneprovider)** · Crossplane provider for OneProvider · `go`
+- **[ansible-runner-operator](https://github.com/MadJlzz/ansible-runner-operator)** · Lightweight operator that reconciles Ansible playbooks · `go`
+- **[dotfiles](https://github.com/MadJlzz/dotfiles)** · An Ansible playbook that automates my laptops configuration · `shell` · ★ 1
 
-------------
-<p align="center">
-    This <i>README</i> file is generated <b>every 6 hours</b>! <br /> 
-    Last refresh: Wednesday, 21 October, 05:48 CEST
-</p>
+### \# stack
 
-<p align="center">
-    <img src="https://github.com/MadJlzz/MadJlzz/workflows/README%20build/badge.svg" />
-    <img alt="Stars" src="https://img.shields.io/github/stars/MadJlzz/MadJlzz?style=flat-square&labelColor=343b41"/>
-    <img alt="Forks" src="https://img.shields.io/github/forks/MadJlzz/MadJlzz?style=flat-square&labelColor=343b41"/>
-</p>
+```console
+reader@madlab:~$ cat ./stack.txt
+golang · python · terraform · ansible · k8s · otel · gcp · azure · aws
+```
+
+### \# elsewhere
+
+[blog](https://www.julienklaer.dev/) · [rss](https://www.julienklaer.dev/rss.xml) · [twitch](https://twitch.tv/MadJlzz) · [linkedin](https://www.linkedin.com/in/klaer-julien/)
+
+---
+
+<sub>© 2026 MadJlzz</sub>
